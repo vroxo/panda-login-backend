@@ -1,0 +1,19 @@
+{
+  "name": "login-backend",
+  "version": "0.0.1",
+  "description": "Backend para tratar logins e cadastros",
+  "main": "index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Pandastics/panda-login-backend.git"
+  },
+  "author": "Pandasticos",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Pandastics/panda-login-backend/issues"
+  },
+  "homepage": "https://github.com/Pandastics/panda-login-backend#readme"
+}
